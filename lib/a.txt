@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 zero
 one
 two
@@ -6,3 +7,12 @@ four
 five
 six
 seven
+=======
+mon
+tue
+wed
+thu
+fri
+sat
+sun
+>>>>>>> ad64b6f
